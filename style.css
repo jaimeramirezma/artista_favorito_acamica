@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0%;
+    background-color: rgb(0, 0, 0);
+}
+
+header, footer{
+    text-align: center;
+}
+
+nav, aside, article, table, footer{
+    padding-top: 15px;
+}
+
+p{
+    color: white;
+    font-family: 'Lucida Sans';
+    font-size: 12px;
+    text-align: justify;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+h2{
+    color: gray;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-align: center;
+}
+
+ul{
+    color: white;
+    font-family: 'Lucida Sans';
+    font-size: 12px;
+    padding-left: 45%;
+    font-style: italic;
+}
+
+a{
+    text-decoration: none;
+}
+
+#center{
+    text-align: center;
+  }
+
+td{
+    border-radius: 5px;
+    border:2px  solid #1fb3ed;
+}
+
+#galerias{  
+    margin: auto;
+}
+
+.change_bullets {
+    list-style-type: upper-roman;
+}
+
+h5{
+    padding-top: 20px;
+    color: gray;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
+    text-align: center;
+}
